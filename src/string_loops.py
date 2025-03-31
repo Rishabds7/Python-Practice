@@ -55,7 +55,7 @@ for index, letter in enumerate(string):
     else:
         print(f"Index {index}: {letter} Letter")
 
-String Slicing
+# String Slicing
 
 string = "BMW M5 Competition"
 
