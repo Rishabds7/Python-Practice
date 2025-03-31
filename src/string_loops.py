@@ -1,4 +1,4 @@
-
+string = "BMW M5 Competition"
 
 def printString(string):
     if(string=="Hi"):
@@ -57,7 +57,7 @@ for index, letter in enumerate(string):
 
 # String Slicing
 
-string = "BMW M5 Competition"
+
 
 string = "hello"
 print(string[2::-1])
